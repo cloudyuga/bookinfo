@@ -1,0 +1,10 @@
+# Default values for rule1.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+
+rule:
+  dev: 0
+  prod: 100
+
+
